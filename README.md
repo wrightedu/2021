@@ -29,6 +29,3 @@
 
 Judges decisions are to be considered final. No cheating will be tolerated. 
 
-\newpage
-
-
