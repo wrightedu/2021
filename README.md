@@ -28,7 +28,3 @@
 * **Only one computer may be used per team.**
 
 Judges decisions are to be considered final. No cheating will be tolerated. 
-<<<<<<< HEAD
-=======
-
->>>>>>> 9b8ca3ccbfd233a26e9e65ae1d657d41de567d69
